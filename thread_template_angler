@@ -4,37 +4,22 @@
 [CENTER][SIZE="3"]We are proud to present the Unholy Rom, based on AOSP. We focus on stability and performance, with just enough features to maintain the custom experience.[/SIZE][/CENTER]
 
 [SIZE="4"][COLOR="red"][B][FONT="Book Antiqua"]Features:[/FONT][/B][/COLOR][/SIZE]
-[SIZE="2"]-Magisk (Angler/Shamu)
--SuperSU (Marlin)
--Full OMS support
--DUI(Fling/Smartbar)
--QS Headers
--One-handed UI
+[SIZE="2"]-System themes
+-Fingerprint swipe options
+-Customizable system animations
+-Double to wake/sleep/lockscreen options
+-Pixel navbar 
 -Statusbar Clock/Date customizations
 -Notification count
 -Customizable QS settings
 -QS quick pulldown
 -QS Tile animations
--Force expanded notifications
--Disable immersive Mode messages
 -Volume Rocker tweaks
--Battery Styles and settings
 -Lockscreen customizations
--Lockscreen shortcuts
--Heads up customizations
--Grid-style recents
--Slim Recents
 -Recents clear all button options
 -Recents Free Ram bar
 -Custom Carrier label
 -Status bar logo
--Custom dashboard settings
--Customizable LED settings 
--Volume steps
--Prevent audio interruptions
--Heads up settings
--Expanded Desktop
--Power Notification Settings
 -And more![/SIZE]
 
 [SIZE="4"][COLOR="red"][B][FONT="Book Antiqua"]Installation:[/FONT][/B][/COLOR][/SIZE]
@@ -50,7 +35,7 @@ Include a log and steps to reproduce or your report will be ignored.  Try using 
 
 [SIZE="4"][COLOR="red"][B][FONT="Book Antiqua"]Downloads:[/FONT][/B][/COLOR][/SIZE]
 [SIZE="2"][URL="https://www.androidfilehost.com/?w=files&flid=178446"]Official Unholy Angler[/URL][/SIZE]
-[SIZE="2"][URL="https://www.androidfilehost.com/?fid=745425885120746529"]July vendor.img: N2G48B[/URL][/SIZE]
+[SIZE="2"][URL="https://www.androidfilehost.com/?fid=962187416754472807"]April vendor.img: opm3.171019.019[/URL][/SIZE]
 
 [SIZE="4"][COLOR="red"][B][FONT="Book Antiqua"]Rom Source:[/FONT][/B][/COLOR][/SIZE]
 [SIZE="2"][URL="https://github.com/unholydevs"]https://github.com/UnholyDevs[/URL][/SIZE]
@@ -72,8 +57,7 @@ VanirAOSP
 Nitrogen Project
 ScrewdAOSP
 Pure Nexus
-OmniRom
-Team Substratum
+AquariOS
 And anyone else that's been left out, we thank you![/SIZE]
 
 [SIZE="4"][COLOR="red"][B][FONT="Book Antiqua"][CENTER]Join the Unholy telegram chat:[/FONT][/B][/COLOR][/SIZE]
