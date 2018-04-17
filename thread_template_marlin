@@ -4,33 +4,23 @@
 [CENTER][SIZE="3"]We are proud to present the Unholy Rom, based on AOSP. We focus on stability and performance, with just enough features to maintain the custom experience.[/SIZE][/CENTER]
 
 [SIZE="4"][COLOR="red"][B][FONT="Book Antiqua"]Features:[/FONT][/B][/COLOR][/SIZE]
-[SIZE="2"]-Magisk (Angler/Shamu)
--SuperSU (Marlin)
--Full OMS support
--DUI(Fling/Smartbar)
--QS Headers
--One-handed UI
+[SIZE="2"]-System themes
+-SuperSU (Marlin)	+-Fingerprint swipe options
+-Full OMS support	+-Customizable system animations
+-DUI(Fling/Smartbar)	+-Double to wake/sleep/lockscreen options
+-QS Headers	+-Pixel navbar 
 -Statusbar Clock/Date customizations
 -Notification count
 -Customizable QS settings
 -QS quick pulldown
 -QS Tile animations
--Force expanded notifications
--Disable immersive Mode messages
 -Volume Rocker tweaks
--Battery Styles and settings
 -Lockscreen customizations
--Heads up customizations
 -Recents options
 -Recents clear all button options
 -Recents Free Ram bar
 -Custom Carrier label
 -Status bar logo
--Custom dashboard settings
--Customizable LED settings 
--Volume steps
--Prevent audio interruptions
--Heads up settings
 -And more![/SIZE]
 
 [SIZE="4"][COLOR="red"][B][FONT="Book Antiqua"]Installation:[/FONT][/B][/COLOR][/SIZE]
@@ -71,5 +61,6 @@ Nitrogen Project
 ScrewdAOSP
 Pure Nexus
 OmniRom
-Team Substratum
+AquariOS
+AOSIP
 And anyone else that's been left out, we thank you![/SIZE]
